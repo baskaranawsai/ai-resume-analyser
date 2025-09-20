@@ -1,4 +1,4 @@
-# ATS Resume Scoring
+# AI Resume Analyser
 
 This project provides an AI-powered platform for scoring resumes against job descriptions using advanced language models and retrieval-augmented generation (RAG). It helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and assists recruiters in evaluating candidate fit.
 
@@ -29,8 +29,8 @@ This project provides an AI-powered platform for scoring resumes against job des
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
-   cd ATS\ Resume\ Scoring
+   git clone <git-repo-url>
+   cd ai-resume-analyser
    ```
 
 2. **Install dependencies:**
